@@ -25,6 +25,7 @@ Analyzed a structured dataset containing customer details such as
 -Customer Behavior Analysis
 • Explored how demographics (age, gender, marital status) influence bike buying.
 • Evaluated the effect of lifestyle factors like commute distance, car ownership, and home ownership.
+
 -Predictive Modeling
 • Built a classification model to predict whether a customer would purchase a bike.
 • Analyzed variable importance to identify the top influencing factors.
