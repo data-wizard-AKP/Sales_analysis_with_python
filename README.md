@@ -2,23 +2,23 @@
 Analysis of Diwali sales data to improve customer experience and sales
 Dataset Overview
 Analyzed a structured dataset containing customer details such as
-#   Column            Non-Null Count  Dtype  
----  ------            --------------  -----  
- 0   User_ID           11251 non-null  int64  
- 1   Cust_name         11251 non-null  object 
- 2   Product_ID        11251 non-null  object 
- 3   Gender            11251 non-null  object 
- 4   Age Group         11251 non-null  object 
- 5   Age               11251 non-null  int64  
- 6   Marital_Status    11251 non-null  int64  
- 7   State             11251 non-null  object 
- 8   Zone              11251 non-null  object 
- 9   Occupation        11251 non-null  object 
- 10  Product_Category  11251 non-null  object 
- 11  Orders            11251 non-null  int64  
- 12  Amount            11239 non-null  float64
- 13  Status            0 non-null      float64
- 14  unnamed1          0 non-null      float64
+#   Column            
+---  ------         
+ 0   User_ID          
+ 1   Cust_name        
+ 2   Product_ID       
+ 3   Gender            
+ 4   Age Group         
+ 5   Age               
+ 6   Marital_Status   
+ 7   State             
+ 8   Zone             
+ 9   Occupation       
+ 10  Product_Category  
+ 11  Orders            
+ 12  Amount          
+ 13  Status
+ 14  unnamed1          
  Key Objectives
 
 ## Customer Behavior Analysis
