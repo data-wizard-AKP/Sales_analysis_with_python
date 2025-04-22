@@ -29,11 +29,14 @@ Analyzed a structured dataset containing customer details such as
 -Predictive Modeling
 • Built a classification model to predict whether a customer would purchase a bike.
 • Analyzed variable importance to identify the top influencing factors.
+
 -Customer Segmentation
 • Grouped customers by similar profiles for targeted marketing.
 • Used clusters to identify high-potential segments for campaign targeting.
+
 -Business Insights
 • Recommended strategies for personalized offers and better engagement.
 • Identified key factors such as income, education level, and occupation that impact buying decisions.
+
 -Tools Used
 • Pandas – Data cleaning,matplotlib & Seborn - for analysis and visualisations
