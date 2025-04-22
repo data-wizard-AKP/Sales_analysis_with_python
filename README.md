@@ -21,7 +21,7 @@ Analyzed a structured dataset containing customer details such as
  14  unnamed1          
  Key Objectives
 
-## Customer Behavior Analysis
+# Customer Behavior Analysis
 • Explored how demographics (age, gender, marital status) influence bike buying.
 • Evaluated the effect of lifestyle factors like commute distance, car ownership, and home ownership.
 Predictive Modeling
