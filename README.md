@@ -64,4 +64,4 @@ Technologies Used
 The cleaned dataset is now suitable for customer analysis and targeted communication. This project highlights practical data wrangling skills essential for real-world business scenarios.
 This project involved cleaning and preprocessing using Python and the Pandas library. The dataset was loaded from an CSV file and contained User_ID,,Cust_name,Product_ID,Gender,Age_Group,Age,Marital_Status,State,Zone,Occupation,Product_Category,Orders,Amount,Statusunnamed1. The goal was to prepare the data for further use in outreach, analysis by ensuring quality and consistency. Key Tasks Performed 
 
-# Skills: Python (Programming Language) · Pandas (Software)
+# Skills: Pandas – for data cleaning and manipulation; NumPy – for numerical operations; Matplotlib & Seaborn – for data analysis and visualizations
