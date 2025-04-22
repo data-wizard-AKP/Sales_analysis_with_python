@@ -44,12 +44,17 @@ index   Column
 # This project demonstrates how customer data can be leveraged to drive data-backed decisions in retail and marketing environments.
 
 ## Key Tasks Performed
--✅ Removed duplicate  records
--✅ rename column'Marital_Status'to'Shaadi'
--✅ Formatted data type of Amount column into integer format
--✅ Filtered out records
--✅ Removed entries with missing or invalid field like unnamed1
--✅ Handled missing values by replacing them with empty strings
+✅ Removed duplicate  records
+
+✅ rename column'Marital_Status'to'Shaadi'
+
+✅ Formatted data type of Amount column into integer format
+
+✅ Used describe() method returns description of the data in the DataFrame (i.e. count, mean, std, etc)
+
+✅ Removed entries with missing or invalid field like unnamed1
+
+✅ Handled missing values by replacing them with empty strings
 
 Technologies Used
 • Python
